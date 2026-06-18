@@ -1,5 +1,5 @@
 <div class="large grid centered square-grid">
-  <h2 class="text-xl">Hi I'm Fannoza</h2>
+  <h2 class="text-xl">Hello World I'm Fannoza Alifiandra</h2>
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fannoza24/fannoza24/pacman-output/pacman-contribution-graph-dark.svg">
